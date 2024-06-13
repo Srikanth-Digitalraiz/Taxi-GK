@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>36418055451-s7sr11m8002736n3uevhb00jfd59csq8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.36418055451-s7sr11m8002736n3uevhb00jfd59csq8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>36418055451-559e1l2016ellj41f3mfvlktjujh6p2l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4_f8jhlS0V5zEogO1ekHJ6EptPCdAsmM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>36418055451</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ondeindia.user</string>
+	<key>PROJECT_ID</key>
+	<string>ondeindia-user-742fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ondeindia-user-742fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:36418055451:ios:09a5af429c8e72f08477be</string>
+</dict>
+</plist>

@@ -1,0 +1,250 @@
+{
+  "project_info": {
+    "project_number": "36418055451",
+    "project_id": "ondeindia-user-742fc",
+    "storage_bucket": "ondeindia-user-742fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36418055451:android:3d3764fbba9382698477be",
+        "android_client_info": {
+          "package_name": "com.ondei.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36418055451-iirppifrie952q4jiatm71hn0c08cj5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ondei.user",
+            "certificate_hash": "81cb26d3a5f473d453dc1d1243d56e3d6bf68930"
+          }
+        },
+        {
+          "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBAhvABy60BYXvUm-6kdLlR-0yAalpQag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36418055451-s7sr11m8002736n3uevhb00jfd59csq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ondeindia.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36418055451:android:83b2684798e08a5b8477be",
+        "android_client_info": {
+          "package_name": "com.ondeindia.grcabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBAhvABy60BYXvUm-6kdLlR-0yAalpQag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36418055451-s7sr11m8002736n3uevhb00jfd59csq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ondeindia.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36418055451:android:fb827951f38eb2d98477be",
+        "android_client_info": {
+          "package_name": "com.ondeindia.pradeepcabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBAhvABy60BYXvUm-6kdLlR-0yAalpQag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36418055451-s7sr11m8002736n3uevhb00jfd59csq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ondeindia.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36418055451:android:2a863ab71ed91b0b8477be",
+        "android_client_info": {
+          "package_name": "com.ondeindia.taxigk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBAhvABy60BYXvUm-6kdLlR-0yAalpQag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36418055451-s7sr11m8002736n3uevhb00jfd59csq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ondeindia.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36418055451:android:15663ca840e300568477be",
+        "android_client_info": {
+          "package_name": "com.ondeindia.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36418055451-559e1l2016ellj41f3mfvlktjujh6p2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ondeindia.user",
+            "certificate_hash": "81cb26d3a5f473d453dc1d1243d56e3d6bf68930"
+          }
+        },
+        {
+          "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBAhvABy60BYXvUm-6kdLlR-0yAalpQag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36418055451-s7sr11m8002736n3uevhb00jfd59csq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ondeindia.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36418055451:android:793e353ff99706708477be",
+        "android_client_info": {
+          "package_name": "com.ondeone.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36418055451-n2khg632ek72rl8ojatlcs6f42a3ajht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ondeone.user",
+            "certificate_hash": "81cb26d3a5f473d453dc1d1243d56e3d6bf68930"
+          }
+        },
+        {
+          "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBAhvABy60BYXvUm-6kdLlR-0yAalpQag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36418055451-f6l5gvguf978d8uougdcoaq9ulefso99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36418055451-s7sr11m8002736n3uevhb00jfd59csq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ondeindia.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
